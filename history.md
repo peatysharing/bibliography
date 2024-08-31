@@ -309,8 +309,11 @@
   - 1987 - In Memory Of Professor Albert Szent-Györgyi.pdf
   - 1988 - The Emergence Of Life.pdf
 - Solco Walle Tromp
-  - 1960 - S. W. Tromp - Biometeorology. Proceedings Of The Second International Bioclimatological Congress.pdf
+  - 1960 - Biometeorology. Proceedings Of The Second International Bioclimatological Congress.pdf
   - 1963 - Medical Biometeorology Weather, Climate, And The Living.pdf
+  - 1964 - A Survey Of Human Biometeorology.pdf
+	- 1979 - Biometeorological Survey, Volume 1 1973-1978, Part A Human Biometeorology.pdf
+	- 1980 - Biometeorology. The Impact Of The Weather And Climate On Humans And Their Environement (Animals And Plants).pdf
 - Suzanne Humpries
   - 2013 - Dissolving Illusions.pdf
 - Thomas Hodge McGavack
