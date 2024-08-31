@@ -19,7 +19,6 @@
   - 1960 - Introduction to a Submolecular Biology.pdf
   - 1972 - The Living State. With Observations on Cancer.pdf
   - 1957 - Bioenergetics.pdf
-  - 1984 - In search of the physical basis of life.pdf
   - 1970 - The Crazy Ape.pdf
   - 1962 - Horizons in Biochemistry.pdf
   - 1968 - Bioelectronics. A Study in Cellular Regulations, Defense, and Cancer.pdf
@@ -110,8 +109,7 @@
   - 1970 - STRESS AND AGING[Journal of the American Geriatrics Society 1970-sep vol. 18 iss. 9] .pdf
   - 1958 - INFLUENCE OF VARIOUS HORMONES AND VITAMIN-D PREPARATIONS UPON ESTABLISHED BONE LATHYRISM [Cells Tissues Organs vol. 33 iss. 1-2].pdf
   - 1957 - Prevention by Thyroxine of the Ocular Changes [American Journal of Ophthalmology 1957-dec vol. 44 iss. 6] .pdf
-  - 1970 - Adaptive Steroids, Retrospect and Prospect [Perspectives in Biology and Medicine vol. 13 iss. 3] .pdf
-  - 1959 - The Physiopathology of Stress [Postgraduate Medicine 1959-jun vol. 25 iss. 6].pdf
+  - 1970 - Adaptive Steroids, Retrospecler
   - 1967 - The Mast Cell [Archives of Dermatology 1967-oct 01 vol. 96 iss. 4].pdf
   - 1958 - Topical Effects of Cortisol upon Walker Tumors [Oncology vol. 11 iss. 3-4].pdf
   - 1944 - HORMONAL PRODUCTION OF ARTHRITIS[Journal of the American Medical Association 1944-jan 22 vol. 124 iss. 4] .pdf
@@ -139,6 +137,7 @@
   - 1968 - Persorption of Particles  [Digestion vol. 1 iss. 2].pdf
   - 1974 - Passage of particles through the wall of the gastrointestinal tract.pdf
 - Gilbert Ling
+  - 1984 - In search of the physical basis of life.pdf
   - 2011 - Truth in Basic Biomedical Science Will Set Future Mankind Free.pdf
   - 1993 - A Quantitative Theory of Solute Distribution in Cell Water According to Molecular Size.pdf
   - 1963 - A Physical Theory of the Living State the association-induction hypothesis.pdf
@@ -213,3 +212,188 @@
   - 2001 - The Disorders, Premenstrual Syndrome (PMS).pdf
 - Robert M. Sapolsky
   - 1984 - Why Zebras Don't Get Ulcers.epub
+
+# Batch 2
+- Adelle Davis
+  - 1935 - Optimum Health.pdf
+  - 1947 - Let's Cook It Right.pdf
+  - 1954 - Lets Eat Right To Keep Fit.pdf
+  - 1965 - Let's Get Well.pdf
+  - 1949 - Vitality Through Planned Nutrition
+  - 1959 - Let's Have Healthy Children.pdf
+- A. G. Guillaume
+  - 1922 - Endocrine Glands And The Sympathetic System.pdf
+ - Albert Schweitzer
+  - 2005 - Albert Schweitzer Essential Writings (1875-1965).pdf
+- Alfred North Whitehead
+  - 1929 - Process And Reality.pdf
+  - 1938 - Modes of thought.pdf
+  - 1938 - Modes of thought.djvu
+- Ancel Keys
+  - 1950 - The Biology Of Human Starvation Volume 2.pdf
+- Broda O. Barnes
+  - 1989 - Hope For Hypoglycemia.pdf
+  - 1976 - Solved, The Riddle Of Heart Attacks [CLEANED - With Index].pdf
+  - 1976 - Solved, The Riddle Of Heart Attacks [CLEANED - Without Index].pdf
+  - 1976 - Solved, The Riddle Of Heart Attacks [Low Quality But Readable].pdf
+  - 1976 - Hypothyroidism The Unsuspected Illness.pdf
+- Bungenberg De Jong
+  - 1956 - Colloid Systems.pdf
+- Charles Edouards
+  - 1878 - Notice sur les travaux scientifique.pdf
+- Constance R. Martin
+  - 1976 - Textbook Of Endocrine Physiology.pdf
+- Elie Metchnikoff
+  - 1901 - L'Immunité dans les maladies infectieuses.pdf
+  - 1891 - Leçons sur la pathologie comparée.pdf
+- Emanuel Revici
+  - 1961 - Research in physiopathology as basis of guided chemotherapy, with special application to cancer.pdf
+- Felix Z. Meerson
+  - 1991 - Adaptive Protection of the Heart-Protecting Against Stress and Ischemic Damage.pdf
+- Fujita Takuo
+  - 2015 - Immobilization And Calcium Paradox.pdf
+  - 1991 - Calcium, Parathyroids And Aging.pdf
+- Halton Arp
+  - 1998 - Seeing Red.pdf
+- Hannes Alfvén
+  - 1981 - Cosmic Plasma.pdf
+- Hans Selye
+  - 1975 - Stress without Distress.pdf
+- Henri Bergson
+  - 1944 - Creative Evolution.pdf
+- John W. Gofman
+  - 1995 - Human Radiation Studies.pdf
+- Jonas Salk
+  - 1973 - The Survival of the Wisest.pdf
+- John O'M. Bockris
+  - 2013 - The New Paradigm.pdf
+ - Katharina Dalton
+  - 1968 - Ante-natal Progesterone And Intelligence.pdf
+- Mae-Wan Ho
+  - 2013 - No Genes for Intelligence.pdf
+  - 1994 - Bioelectrodynamics and biocommunication.pdf
+  - 2014 - why is almost no one looking.pdf
+  - 2003 - The Case For A GM-Free Sustainable World.pdf
+  - 2005 - Unraveling aids, the independent science and promising.pdf
+  - 2004 - GMO free, exposing the hazards of biotechnology to ensure.pdf
+  - 2013 - How Parental Care Changes Genes.pdf
+- Marian C. Diamond
+  - 2001 - Response of the Brain to Enrichment.pdf
+  - 1998 - Magic Trees Of The Mind.pdf
+  - 1968 - Acetylcholinesterase and cholinesterase activities, protein content and wet weight measures in the rat brain after early hypophy [Experimental Neurology 1968-aug vol. 21 iss. 4].pdf
+  - 1978 - Hormonal Contraceptives, Estrogens, and Human Welfare.pdf
+  - 1982 - Rat occipital cortical synapses after ovariectomy [Experimental Neurology 1982-jan vol. 75 iss. 1].pdf
+  - 1977 - Effects of pregnancy and differential environments on rat cerebral cortical depth [Behavioral Biology 1977-mar vol. 19 iss. 3].pdf
+  - 1986 - Rat cerebral cortical estrogen receptors, Male-female, right-left [Experimental Neurology 1986-apr vol. 92 iss. 1] .pdf
+  - 1968 - The effects of early hypophysectomy and hormone therapy on brain development [Brain Research 1968-mar vol. 7 iss. 3].pdf
+  - 1974 - Effects of successive environments on brain measures [Physiology & Behavior 1974-apr vol. 12 iss. 4].pdf
+  - 1982 - Effect of age and enrichment on certain brain dimensions in Brattleboro rats deficient in vasopressin [Experimental Neurology 1982-jan vol. 75 iss. 1].pdf
+  - 1985 - A possible role of sex steroid hormones in determining immune deficiency differences between the sexes[Behavioral and Brain Sciences 1985-sep vol. 8 iss. 3] .pdf
+  - 1988 - Enriching Heredity .pdf
+  - 1969 - Influences of environmental complexity and visual stimulation on development of occipital cortex in rat [Brain Research 1969-jul vol. 14 iss. 2].pdf
+- Michael A. Persinger
+  - 1977 - Michael A. Persinger, Gyslaine F. Lafreniere -Space-time Transients and Unusual Events.pdf
+  - 1974 - The Paranormal the patterns.pdf
+  - 1974 - ELF and VLF Electromagnetic Field Effects.pdf
+- Michael F. Holick
+  - 2010 - Physiology, Molecular Biology, and Clinical.pdf
+  - 2010 - The Vitamin D Solution, A 3-Step Strategy to Cure Our Most.epub
+- Michel Gauquelin
+  - 1994 - the planetary factors in personality.pdf
+- Natalia Petrovna Bekhtereva
+  - 1978 - The Neurophysiological Aspects Of Human Mental Activity.pdf
+- P. Lereboullet
+  - 1922 - Endocrine Glands And The Sympathetic System.pdf
+- Peter Kropotkin
+  - 1989 - Mutual Aid.pdf
+- S. Shnoll
+  - 2012  - Cosmophysical factors in random processes.pdf
+- Sidney Fox
+  - 1988 - The Emergence Of Life.pdf
+  - 1984 - Chemical and Biological Bases.pdf
+  - 1977 - Molecular Evolution And The Origin Of Life.pdf
+  - 1972 - Molecular Evolution to the first cells.pdf
+  - 1987 - In Memory Of Professor Albert Szent-Györgyi (1987)  [International Journal of Quantum Chemistry 1987-mar 14 vol. 32 iss. S14].pdf
+- Solco Walle Tromp
+  - 1963 - Medical biometeorology weather, climate, and the living.pdf
+  - 1960 - Biometeorology. Proceedings of the Second International Bioclimatological Congress Held at the Royal Society of Medicine, London, 4–10 Sept. 1960, Organized by The International S.pdf
+- Suzanne Humpries
+  - 2013 - Dissolving Illusions.pdf
+- Thomas Hodge McGavack
+  - 1951 - The Thyroid.pdf
+- Viktor E. Frankl
+  - 1984 - Man's Search For Meaning.pdf
+- Viktor Schauberger
+  - 1998 - Nature As Teacher, How I Discovered New Principles in the Working of Nature . Volume 2, Gateway.pdf
+  - 1999 - The Water Wizard, The Extraordinary Properties of Natural Water-Gill & MacMillan.pdf
+  - 2000 - Energy Evolution (Eco-Technology) (Eco-Technology volume Volume 4).pdf
+  - 2001 - The Fertile Earth, Nature's Energies in Agriculture, Soil Fertilisation and Forestry . Volume 3, Gateway.pdf
+- Vladimir Vernadsky
+  - 1945 - The Biosphere and the Noosphere.pdf
+  - 1926 - Biosphere.pdf
+  - 1924 - La géochimie par Vladimir Vernadsky.pdf
+- Walter Cannon
+  - 1915 - Bodily changes in pain, hunger, fear, and rage.epub
+  - 1937 - Walter Cannon Digestion and Health.pdf
+  - 1923 - Traumatic Shock.pdf
+  - 1911 - The mechanical factors of digestion.pdf
+  - 1915 - Bodily changes in pain, hunger, fear, and rage.pdf
+- Walter Drost-Hansen
+  - 1969 - Viscosity of Water at Various Temperatures.pdf
+  - 1978 - Water at Biological Interface, Structural and Functional, Aspects.pdf
+  - 1963 - The effects on biologic systems of higher order transitions in water.pdf
+  - 2006 - Vicinal hydration of biopolymers cell biological consequences.pdf
+  - 1991 - On the biochemistry and cell physiology of water.pdf
+  - 1980 - A Role for Water in Growth, Metabolism, and Intracellular Organization.pdf
+  - 1979 - Cell-Associated Water. Proceedings of a Workshop on Cell-Associated Water Held in Boston, Massachusetts.pdf
+- William F. Koch
+  - 1926 - Cancer Points.pdf
+  - 1916 - The Physiology Of The Parathyroid Glands.pdf
+  - 1940 - Chemistery Of Our Diet.pdf
+  - 1938 - Natural Immunity.pdf
+  - 1941 - A Brief History Of The Development Of The Koch Synthetic Antitoxins.pdf
+  - 1941 - Dr. Koch's Publications Cancer Causation & Recovery.pdf
+  - 1927 - Blood Chemistry .pdf
+  - 1920 - A New And Successful Diagnosis And Treatment Of Cancer.pdf
+  - 1926 - Cancer Supplementary Points.pdf
+  - 1941 - Principles Of The Koch Therapy Introduced In 1918.pdf
+  - 1958 - Survival Factor In Cancer And Viral Infection.pdf
+  - 1926 - The Prevention Of Cancer.pdf
+  - 1913 - Chemical Consequences Of The Removal Of The Parathyroid Glands.pdf
+  - 1941 Dr. Koch's Publications Koch Synthetic Antitoxins.pdf - 1941 Dr. Koch's Publications Koch Synthetic Antitoxins.pdf
+  - 1918 - Parathyroid Glands.pdf
+  - 1912 - Methyl Guanidine.pdf
+  - 1939 - Laws Of Chemical Structure.pdf
+  - 1939 - Clinical Demonstration of the Laws of Chemical Structure that Determines Immunity to Disease, and their Application in the Treatment of Patients.pdf
+  - 1940 Dr. Koch's Publications Diet Chemistry.pdf - 1940 Dr. Koch's Publications Diet Chemistry.pdf
+  - 1941 - An Efficient Single Dose Treatment For Diabetes On A Full Carbohydrate Diet Without Insulin.pdf
+  - 1967 - Pathogenesis and It's Reversal.pdf
+  - 1938 Dr. Koch's Publications Pathogenesis and Immunity.pdf - 1938 Dr. Koch's Publications Pathogenesis and Immunity.pdf
+  - 1966 - Koch Concept.pdf
+  - 1925 - Cancer Its Function And Cure.  The Evolution Of The Immunity Process.pdf
+  - 1918  - Tetany And Parathyroid Glands.pdf
+  - 1927 - The Koch Cancer Treatment And Its Investigations.pdf
+  - 1963 - Basic Chemistry & Clinical Reversal.pdf
+- William J.J. Gordon
+  - 1961 - The development of creative capacity.pdf
+- Yandell Henderson
+  - 1916 - Resuscitation Apparatus.pdf
+  - 1934 - Resuscitation 2.pdf
+  - 1933 - Household Health Hazards.pdf
+  - 1934 - Resuscitation 1.pdf
+  - 1922 - Contamination Of Air With Carbon Monoxide.pdf
+  - 1930 - The Dangers Of Carbon Monoxide Poisoning And Measures To Lessen These Dangers.pdf
+  - 1940 - Lack Of Evidence For Chronic Carbon Monoxide Poisoning.pdf
+  - 1914 - The Time That The Breath Can Be Held As An Index For Acidosis.pdf
+  - 1933 - Use Of Inhalations Of Carbon Dioxide To Prevent Posoperative Pulmonary Complications.pdf
+  - 1935 - Resuscitation.pdf
+  - 1943 - Noxious Gases.pdf
+  - 1937 - Resuscitation.pdf
+  - 1914 - Respiratory Experiments On Man.pdf
+  - 1938 - Resuscitation.pdf
+  - 1943 - For A Better Means Of Estimating The Need For Restoration Of The Blood Volume.pdf
+  - 1936 - Treatment Of Acute Alcoholism.pdf
+  - 1941 - Artificial Respiration And Inhalation.pdf
+  - 1925 - Physiological Regulation Of The Acid-Base Balance Of The Blood And Some Related Functions.pdf
+  - 1920 - The Therapeutic Use Of Carbon Dioxide After ANesthesia And Operation.pdf
+  - 1938 - Adventures In Respiration Modes Of Asphyxiation And Methods.pdf
