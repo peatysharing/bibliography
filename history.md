@@ -186,6 +186,9 @@
   - 2013 - The Scientific Basis Of Astrology, Myth Or Reality.epub
 - Moses Gomberg
   - 1932 - A Survey Of The Chemistry Of Free Radicals.pdf
+- Multiple Researchers
+  - 1922 - Endocrine Glands And The Sympathetic System.pdf
+  - 1984 - Individuality And Determinism
 - N.A. Kozyrev
   - 1967 - Possibility Of Experimental Study Of Properties Of Time.pdf
 - Norbert Wiener
@@ -215,8 +218,6 @@
   - 1954 - Lets Eat Right To Keep Fit.pdf
   - 1965 - Let's Get Well.pdf
   - 1959 - Let's Have Healthy Children.pdf
-- A. G. Guillaume
-  - 1922 - Endocrine Glands And The Sympathetic System.pdf
 - Albert Schweitzer
   - 2005 - Albert Schweitzer Essential Writings (1875-1965).pdf
 - Alfred North Whitehead
