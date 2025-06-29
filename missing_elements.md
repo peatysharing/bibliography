@@ -55,10 +55,8 @@
 | Authors    | Source |
 | -------- | ------- |
 | I. P. Ashmarin | (Zh. Evol. Biokhimii i Fiziologii, No. 3, pp. 2170224, 1973) |
-| J. H. Fremlin | Nature 238, 406, 1972 |
 | Berestovskiy, G.N., et al. |"Study of the cumulative structural changes in a nerve fiber during rhythmic stimulation using optical techniques," |
 | Belenkiy, B. | "LIDA, apparatus for biorhythmological studies," Soy. Mold., p. 4, Dec.8, 1973. |
-| Cohen, C.I. | "Prime site for manifestation of psythosomatic disorders," Science News 104, p. 347, Dec. 1, 1973 |
 | II'yuchenov, R.Yu. | "Some aspects of the pharmacology of memory," Aktualnyye Problemy Farmakologii i Farmatsii, pp. 37-43, 1971. |
 | Kharkevich, D.A. |"The effect of lipophilic radicals in the molecule of curariform substances on their mechanism of action," Dokl. Acad. Nauk SSSR 198(4), pp. 985-988, 1971. (https://pubmed.ncbi.nlm.nih.gov/4254833/)  |
 | Khvatova, Ye.M., N.A. Rubanova and I.A. Zhilina | "The activity of monoaminooxidase and respiratory chain enzyme in acute hypoxia," Voprosy Meditsinskoy Khimii 19(1), pp. 3-5, 1973.  |
@@ -116,7 +114,6 @@ M.M. Mirrakhimov, 1972 |?|"high elevation, has caused lasting improvement in psy
 | Korenchevsky | Physiology and pathology of aging, Hafner, N.Y. 1961 | Water and sodium retention induced by estrogen |
 | Siiteri PK & MacDonald PC | Handbook of Physiology, Vol 2, pp 619-629. | Role of extraglandular estrogen in human endocrinology. |
 | H.G. Muller-Verlag | Krailing bei Munchen, 1959 | "B.F. Sandler wrote a book on nutrition for avoiding polio" |
-| Bennett & Bondy | Principles of Internal Medicine, p. 795 | "This amount would be close to the maximum safe daily dosage of caffeine, 6 grams" |
 | ? | Physicians Desk Reference, iodides | "Iodides are known to benefit arteriosclerosis, with visible improvement occurring in blood vessels in the retina" |
 | John P. Merrill | Principles of Internal Medicine, Harrison, 2nd edition, p. 1425 | "Caffeine, in fact, is prescribed in doses equivalent to 2 to 4 cups of coffee (200 to 400 mg.) to relieve hypertensive headaches" |
 
@@ -130,7 +127,6 @@ M.M. Mirrakhimov, 1972 |?|"high elevation, has caused lasting improvement in psy
 | M. Kirchgassner & H.L. Mueller | Landwirtsch Forsch 27 (314), p. 358-364, 1974 | "copper/dry body matter clearly fell when the protein supply was increased." & "The effect of varying the protein diet on the trace elements content of early-weaned piglets." |
 | ? | J. of Steroid Biochemistry | Progesterone has also been used to eliminate excess facial hair (photographs of this effect of progestins have been published in the J. of Steroid Biochemistry). |
 | ? | J. Clin. Nutr., summer, 1974 | Vitamin C increases the structural strength of the mucous membranes' connective tissue, in proportion to its intake, up to the megadoses recommended by Pauling (according to electron microscope evidence) |
-| Dove, G. E., et al. | I. Reprod. Fert. 24: 18, 1971 | Oestrogenic function in postmenopausal women. |
 
 ## Others
 | Authors    | Source | Excerpt | 
@@ -168,5 +164,5 @@ M.M. Mirrakhimov, 1972 |?|"high elevation, has caused lasting improvement in psy
 | -------- | ------- | ------- |
 | S. N. Chatterjee; Kamboj V.P.  | Indian Journal of Experimental Biology 9: 105, 1971.    | Effect of intrauterine contraceptive suture on corpora lutea of Guinea pigs ( https://documentsdelivered.com/source/000/000/000000136/1971/000888289.php & https://pubmed.ncbi.nlm.nih.gov/5147177/) |
 | ? | Mother Jones Magazine 1978    | ? |
-| C. Djerassi    | "The making of the pill" in Science 84: 127- 129, 1984    | . |
+| C. Djerassi    | "The making of the pill" in Science 84 1984 November; 5(9): 127-129   | . |
 | ? | "Progesterone deficiency predisposes to cancer." in Annales d'Endocrinologie 37, p. 309; Cancer 33, p.1506; Ann. N. Y. Acad. Sci., 1977 | .|
