@@ -19,7 +19,7 @@
 ## Others
 | Authors | Source | Excerpt |
 | -------- | ------- | ------- |
-| Macdonell & Glover | ? | "Expectation of life of Ancient Romans with that of presetn day americans" |
+| Macdonell & Glover | ? | "Expectation of life of Ancient Romans with that of present day americans" |
 | Gustaf Arrghenius | SCripps Institue of oceonography | "iron carbonates producing organic compounds" |
 | Teilhard de Chardin | ? | "about the Noosphere" |
 | Michael Polanyi | ? | "about adsorption isotherm"|
@@ -41,11 +41,11 @@
 | V.N. Chemigovskii |  Interoceptors, American Psychological Association, Washington, (1967 ?) |
 | V. M. Inyushin & P. R. Chekurov| Helium-Neon Laser Light in Biology and Medicine (The Light of Helium-Neon Lasers in Biology and Medicine,), Alma-Ata, 1970. |
 | Leonov and Lebedev | Space and Time Perception by the Cosmonaut, translated  Boris Belitsky, Mir Publishers, Moscow, 1971  (pages 173-174) |
-| Robert Deglish | The Scientific and Technological Revolution: Social effects and Prospects, Progress Publishers, Moscow (1972). |
+| Robert Daglish | The Scientific and Technological Revolution: Social effects and Prospects, Progress Publishers, Moscow (1972). |
 | Gagarin, Yu. & V. Lebedev | Psychology and Space, translated by Boris Belitsky, Mir Publishers, Moscow, 1970 |
-| R. Ie. Kavets'ky | The neoplastic process and the nervous system, state medical publ. house (1958) |
+| R. E. Kavetskii (Editor) | The neoplastic process and the nervous system, state medical publ. house (1958) |
 | Morozov, G. V., & V.A. Romasenko | Nervous and Psychic Diseases, translated by David Myshne, Mir Publishers, Moscow, 1968. |
-|M. V. Keldysh | Science in the USSR , Progress Publishers, Moscow, 1972. |
+|Mstislav Vsevolodovich Keldysh | Science in the USSR , Progress Publishers, Moscow, 1972. |
 | Yuri Kholodov | ?  | "brain and the gonads are the most sensitive to non-ionizing electromagnetic fields" |
 |  A. L. Schawlow (Stanford)  | symposium for Naval Research Lab, Washington, D.C., Oct., 1973" |
 
@@ -111,8 +111,8 @@ M.M. Mirrakhimov, 1972 |?|"high elevation, has caused lasting improvement in psy
 ## Books
 | Authors    | Book | Subject or Excerpt |
 | -------- | ------- | ------- |
-| Korenchevsky | Physiology and pathology of aging, Hafner, N.Y. 1961 | Water and sodium retention induced by estrogen |
-| Siiteri PK & MacDonald PC | Handbook of Physiology, Vol 2, pp 619-629. | Role of extraglandular estrogen in human endocrinology. |
+| V. Korenchevsky | Physiology and pathology of aging, Hafner, N.Y. 1961 | Water and sodium retention induced by estrogen |
+| Siiteri PK & MacDonald PC | Handbook of Physiology, Sect. 7, Vol 2, Part. 1, 1963, pp 615-629. | Role of extraglandular estrogen in human endocrinology. |
 | H.G. Muller-Verlag | Krailing bei Munchen, 1959 | "B.F. Sandler wrote a book on nutrition for avoiding polio" |
 | ? | Physicians Desk Reference, iodides | "Iodides are known to benefit arteriosclerosis, with visible improvement occurring in blood vessels in the retina" |
 | John P. Merrill | Principles of Internal Medicine, Harrison, 2nd edition, p. 1425 | "Caffeine, in fact, is prescribed in doses equivalent to 2 to 4 cups of coffee (200 to 400 mg.) to relieve hypertensive headaches" |
