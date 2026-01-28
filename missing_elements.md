@@ -9,7 +9,7 @@
 | Authors    | Source | Excerpt | 
 | -------- | ------- | ------- |
 | P. N. Kropotkin | Chemisfry Journal 3/(5), page 1, 1986. | "D. 1. Mendeleev's hypothesis on the inorganic origin of petroleum and its modem scientific development" |
-| Papa & Kligman  | Advances in biology of the s kin, Vol VI (1965) | "adding pregnenolone or progesterone topically to skin would restore youthful properties to aged skin." |
+| Papa & Kligman  | Advances in biology of the skin, Vol VI (1965) | "adding pregnenolone or progesterone topically to skin would restore youthful properties to aged skin." from [The effect of topical steroids on the aged human axilla] |
 | Timchenko & Antipenko | adiobiologiya  21(2), page 204, 1981 [https://pubmed.ncbi.nlm.nih.gov/7244148/] | "Conditions for the use of thyroxine as  an antimutagen after total-body x-irridation" | 
 | Paul Forman | Studies in the History of Science | "give some valuable historical information on the social factors involved in Germany of the 1920's, when physics' departure from the world of real objects became so conspicuous."|
 | G. T. Sukhikh & F. Z. meerson & I. I. Mikhaleva | https://pubmed.ncbi.nlm.nih.gov/6548436/ | ? |
@@ -43,12 +43,10 @@
 | Leonov and Lebedev | Space and Time Perception by the Cosmonaut, translated  Boris Belitsky, Mir Publishers, Moscow, 1971  (pages 173-174) |
 | Robert Daglish | The Scientific and Technological Revolution: Social effects and Prospects, Progress Publishers, Moscow (1972). |
 | Gagarin, Yu. & V. Lebedev | Psychology and Space, translated by Boris Belitsky, Mir Publishers, Moscow, 1970 |
-| R. E. Kavetskii (Editor) | The neoplastic process and the nervous system, state medical publ. house (1958) |
+| R. E. Kavetskii (Rostislav Evgenʹevich Kavet︠s︡kiĭ) [Editor] | The neoplastic process and the nervous system, state medical publ. house (1958) |
 | Morozov, G. V., & V.A. Romasenko | Nervous and Psychic Diseases, translated by David Myshne, Mir Publishers, Moscow, 1968. |
 |Mstislav Vsevolodovich Keldysh | Science in the USSR , Progress Publishers, Moscow, 1972. |
 | Yuri Kholodov | ?  | "brain and the gonads are the most sensitive to non-ionizing electromagnetic fields" |
-|  A. L. Schawlow (Stanford)  | symposium for Naval Research Lab, Washington, D.C., Oct., 1973" |
-
 
 
 ## Journal
@@ -64,7 +62,7 @@
 | Lapayev, E.V. & Yu.F. Udalov & O.P. Khalatov | "The pharmacological effect of pyridoxine and its combination with adenosine triphosphoric acid on the functional state of the vestibular analysor," Zhumal Ushnykh, Nosoryk i Gorlovykh Bolezney, No. 5, pp. 15-19, 1971.  |
 | Meyerson, F.Z. & V.D. Pomoynitskiy & and B.A. Yampol'skaya | "Role of the biogenesis of mitochondria in the adaptation of the organism to altitude hypoxia," Dokl. Ak. Nauk SSSR 203(4), pp. 973-976, 1972. |
 | M.M. Mirrakhimov | "Human high altitude pathology in Kirghiz SSR," Klinicheskaya Meditsina 50(12), 104-109, 1972. |
-| M.A. Rozin | Study of the Role of Protein Synthesis in the Mechanism of Action of Pharmacological Substances on Cell Resistance Nauka, Leningrad, 1971. |
+| M.A. Rozin | Study of the Role of Protein Synthesis in the Mechanism of Action of Pharmacological Substances on Cell Resistance (https://archive.org/details/cia-readingroom-document-cia-rdp86-00513r002202710016-0/page/n29/mode/1up), Leningrad, 1971. |
 | A.M. Rubakov | "Characteristics of equipment designed to ad. electrically on the organism in biological research," Meditsinskaya Tekhnika No. 1, pp. 6-9, 1973. |
 | V. Ya. Rusin | "The effect of dibazole on the resistance of cells to damage, in Protein Synthesis and Cell Resistance, pp. 58-61, Nauka, Leningrad, 1971. |
 | A. Speranskiy | "Magnetic fields," Meditsinskaya Gazeta, p. 3, May 5, 1973. |
@@ -72,11 +70,11 @@
 | Z.G. Us. & G.Kh. Bozhko |"Effect of blood serum from schizophrenics on the renewal of brain proteins in rats," lb. Neuropatologii i Psikhiatrii, No. 2, pp. 253-255, 1971. |
 | B.M. Vovsi | "Treatment of corneal wounds in high altitudes," Vestnik Oftal'mologii, No. 1, p. 74, 1972. |
 | S. N. Yevseyeva |Voprosy Kurortologii Fizioterapii i Lech. Fiz. Kult., No. 6, pp. 536-540, 1972 |
-| Khvatova, Rubanova & Zhilina | Voprosy Meditsinskoy Khimii 19(1), 3-5, 1973. Administration of monoamine oxidase inhibitors improves resistance of mice to hypoxia (http://pbmc.ibmc.msk.ru/en/issues-en/PBMC-1973-19-1/) |
+| Khvatova, Rubanova & Zhilina | Voprosy Meditsinskoy Khimii 19(1), 3-5, 1973. Administration of monoamine oxidase inhibitors improves resistance of mice to hypoxia (http://pbmc.ibmc.msk.ru/en/issues-en/PBMC-1973-19-1/) & (https://pubmed.ncbi.nlm.nih.gov/4150857/) |
 |Piskarev, et al. | Farmakologiy i Toksikologiya 36(1), 48-54, 1973 |
 | Mirrakhimov | Klinicheskaya Meditsina 50(12), 104-109, 1972 |
 | I.V. Dardymov | "The effect of Ginseng and Eleutherococcus preparation on metabolism during physical loading," pp. 76-82, in Protein Synthesis and Cell Resistance, Nauka, Leningrad, 1971. | 
-| V. P. Kaznacheev, et al. | Transactions of the Moscow Soc. of Naturalists XXXIX, p.224, biol. ser., section of biophysics and radiobiolog |
+| V. P. Kaznacheev, et al. | "On distant intercellular interactions ina system of two tissue cultures connected by optical contac" from [Transactions of the Moscow Soc. of Naturalists XXXIX, 1972, p.224, biol. ser., section of biophysics and radiobiolog] (https://books.google.be/books?vid=UOM:39015069574138) |
 
 
 
@@ -104,6 +102,7 @@ M.M. Mirrakhimov, 1972 |?|"high elevation, has caused lasting improvement in psy
 |M.S. Filatov, 1945 | ? | "Extracts of glands and other tissues have been used for generations to treat nervous diseases"| 
 |Shereshevsky 1926 | ? |"discovered that water and other liquids in small glass tubes behaved as if their structure had increased"|
 |Palladin, 1964|?| "highly structured micro-world is doing the same thing. In alertness, animals use oxygen more efficiently to produce energy"|
+|Obraztzova|?| "to a prolonged pathological reinforcement of some reactions and the weakening of others which exerts an influence on the whole life that follows"|
 
 
 # Nutrition For Women
@@ -112,10 +111,9 @@ M.M. Mirrakhimov, 1972 |?|"high elevation, has caused lasting improvement in psy
 | Authors    | Book | Subject or Excerpt |
 | -------- | ------- | ------- |
 | V. Korenchevsky | Physiology and pathology of aging, Hafner, N.Y. 1961 | Water and sodium retention induced by estrogen |
-| Siiteri PK & MacDonald PC | Handbook of Physiology, Sect. 7, Vol 2, Part. 1, 1963, pp 615-629. | Role of extraglandular estrogen in human endocrinology. |
 | H.G. Muller-Verlag | Krailing bei Munchen, 1959 | "B.F. Sandler wrote a book on nutrition for avoiding polio" |
 | ? | Physicians Desk Reference, iodides | "Iodides are known to benefit arteriosclerosis, with visible improvement occurring in blood vessels in the retina" |
-| John P. Merrill | Principles of Internal Medicine, Harrison, 2nd edition, p. 1425 | "Caffeine, in fact, is prescribed in doses equivalent to 2 to 4 cups of coffee (200 to 400 mg.) to relieve hypertensive headaches" |
+| John P. Merrill | Principles of Internal Medicine, Harrison, 2nd edition (1954), p. 1425 | "Caffeine, in fact, is prescribed in doses equivalent to 2 to 4 cups of coffee (200 to 400 mg.) to relieve hypertensive headaches" |
 
 ## Journal
 | Authors    | Source | Excerpt | 
@@ -153,7 +151,6 @@ M.M. Mirrakhimov, 1972 |?|"high elevation, has caused lasting improvement in psy
 ## Books
 | Authors    | Book | 
 | -------- | ------- | 
-| Leonell Clarence Strong | Biological Aspects of Cancer and Aging |
 | Hans Selye | Encyclopedia of Endocrinology voume 1-4 (1943) | 
 | I. Tallberg | Protides of the Body Fluids (1978) | 
 | Raymond Kehl | Les Glandes Endocrines (1952) | 
