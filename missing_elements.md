@@ -41,7 +41,6 @@
 | V.N. Chemigovskii |  Interoceptors, American Psychological Association, Washington, (1967 ?) |
 | V. M. Inyushin & P. R. Chekurov| Helium-Neon Laser Light in Biology and Medicine (The Light of Helium-Neon Lasers in Biology and Medicine,), Alma-Ata, 1970. |
 | Leonov and Lebedev | Space and Time Perception by the Cosmonaut, translated  Boris Belitsky, Mir Publishers, Moscow, 1971  (pages 173-174) |
-| Robert Daglish | The Scientific and Technological Revolution: Social effects and Prospects, Progress Publishers, Moscow (1972). |
 | Gagarin, Yu. & V. Lebedev | Psychology and Space, translated by Boris Belitsky, Mir Publishers, Moscow, 1970 |
 | R. E. Kavetskii (Rostislav Evgenʹevich Kavet︠s︡kiĭ) [Editor] | The neoplastic process and the nervous system, state medical publ. house (1958) |
 | Morozov, G. V., & V.A. Romasenko | Nervous and Psychic Diseases, translated by David Myshne, Mir Publishers, Moscow, 1968. |
@@ -96,7 +95,7 @@ M.M. Mirrakhimov, 1972 |?|"high elevation, has caused lasting improvement in psy
 | Rubakov, 1973 |? |"High frequency (5000-6000 Hz) currents have been found to stimulate the brain"|
 |Patrick, et al., 1972 | ?|"In embryonic muscle cells, when the "depolarizing fast acetylcholine receptors" are blocked by snake venom, then the cell's "slow polarizing acetylcholine receptors" are revealed"|
 | Florey, 1966 | ? |"in cell homogenates, it is sufficiently active to destroy NAD and thus stop glycolysis at the triose phosphate stage"|
-| Kholodov |? | "Magnetic fields presumably act biologically by acting on the structure of water ... continuous sinusoidal magnetic field has a sedative and inhibiting effect,"|
+| Kholodov |? maybe "The effect of electromagnetic and magnetic fields on the central nervous system." | "Magnetic fields presumably act biologically by acting on the structure of water ... continuous sinusoidal magnetic field has a sedative and inhibiting effect,"|
 |Speranskiy, 1973 | ? |"Magnetic fields ... modifying the  EEG and raising the level of GABA in the brain"|
 |Speranskiy, 1973 | ? | "The activity of oxygen increases in magnetically treated water, so there might be a direct effect on energy production"|
 |M.S. Filatov, 1945 | ? | "Extracts of glands and other tissues have been used for generations to treat nervous diseases"| 
