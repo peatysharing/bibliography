@@ -133,7 +133,6 @@ M.M. Mirrakhimov, 1972 |?|"high elevation, has caused lasting improvement in psy
 | ? | Harrison, op. cit., p. 611 | myxedema is 5 times more frequent in females (adult) than male also suggests such an effect of estrogen  |
 | C. Martin (1978) | ? | Eating carbohydrate stimulates this conversion, so many additional calories of carbohydrate can be eaten without causing a weight gain |
 | Brunelli (1935) | ? | estrogen diminishes hepatic glycogen  |
-|Gaunt, et al., (1939) | ? | progesterone increases both blood sugar and liver glycogen |
 | Janes; Leatham | Animal experiments | Cystic ovaries are often associated with sore breasts. |
 | L. M. Adamkiewicz | ? | glucose infusion will block inflammation or anaphylactic shock |
 | R. C. Strickler |10% of his patients with menopausal symptoms such as flushing, could feel and benefit from estrogen when it was alternated with a placebo (https://pubmed.ncbi.nlm.nih.gov/?sort=pubdate&term=Strickler+RC&cauthor_id=12969686) | . |
