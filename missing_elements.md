@@ -44,7 +44,6 @@
 | Gagarin, Yu. & V. Lebedev | Psychology and Space, translated by Boris Belitsky, Mir Publishers, Moscow, 1970 |
 | R. E. Kavetskii (Rostislav Evgenʹevich Kavet︠s︡kiĭ) [Editor] | The neoplastic process and the nervous system, state medical publ. house (1958) |
 | Morozov, G. V., & V.A. Romasenko | Nervous and Psychic Diseases, translated by David Myshne, Mir Publishers, Moscow, 1968. |
-|Mstislav Vsevolodovich Keldysh | Science in the USSR , Progress Publishers, Moscow, 1972. |
 | Yuri Kholodov | ?  | "brain and the gonads are the most sensitive to non-ionizing electromagnetic fields" |
 
 
