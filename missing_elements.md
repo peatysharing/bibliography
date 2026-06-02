@@ -41,7 +41,6 @@
 | V.N. Chemigovskii |  Interoceptors, American Psychological Association, Washington, (1967 ?) |
 | V. M. Inyushin & P. R. Chekurov| Helium-Neon Laser Light in Biology and Medicine (The Light of Helium-Neon Lasers in Biology and Medicine,), Alma-Ata, 1970. |
 | Leonov and Lebedev | Space and Time Perception by the Cosmonaut, translated  Boris Belitsky, Mir Publishers, Moscow, 1971  (pages 173-174) |
-| Gagarin, Yu. & V. Lebedev | Psychology and Space, translated by Boris Belitsky, Mir Publishers, Moscow, 1970 |
 | R. E. Kavetskii (Rostislav Evgenʹevich Kavet︠s︡kiĭ) [Editor] | The neoplastic process and the nervous system, state medical publ. house (1958) |
 | Morozov, G. V., & V.A. Romasenko | Nervous and Psychic Diseases, translated by David Myshne, Mir Publishers, Moscow, 1968. |
 | Yuri Kholodov | ?  | "brain and the gonads are the most sensitive to non-ionizing electromagnetic fields" |
@@ -58,7 +57,7 @@
 | Khvatova, Ye.M., N.A. Rubanova and I.A. Zhilina | "The activity of monoaminooxidase and respiratory chain enzyme in acute hypoxia," Voprosy Meditsinskoy Khimii 19(1), pp. 3-5, 1973.  |
 | Kondrashchenko, V.T.& B.R. Giants & I.M. Mayerovich | "Hyperbaric oxygen therapy of hypoxia in acute brain injuries and acute exogenous psychoses," Zh. Neuropatologii i Psikhiatrii, No. 2, pp. 271-277, 1971. |
 | Lapayev, E.V. & Yu.F. Udalov & O.P. Khalatov | "The pharmacological effect of pyridoxine and its combination with adenosine triphosphoric acid on the functional state of the vestibular analysor," Zhumal Ushnykh, Nosoryk i Gorlovykh Bolezney, No. 5, pp. 15-19, 1971.  |
-| Meyerson, F.Z. & V.D. Pomoynitskiy & and B.A. Yampol'skaya | "Role of the biogenesis of mitochondria in the adaptation of the organism to altitude hypoxia," Dokl. Ak. Nauk SSSR 203(4), pp. 973-976, 1972. |
+| Meerson, F.Z. & V.D. Pomoynitskiy & and B.A. Yampol'skaya | "Role of the biogenesis of mitochondria in the adaptation of the organism to altitude hypoxia," Doklady Akademii nauk SSSR (Dokl. Ak. Nauk SSSR) 203(4), pp. 973-976, 1972. |
 | M.M. Mirrakhimov | "Human high altitude pathology in Kirghiz SSR," Klinicheskaya Meditsina 50(12), 104-109, 1972. |
 | M.A. Rozin | Study of the Role of Protein Synthesis in the Mechanism of Action of Pharmacological Substances on Cell Resistance (https://archive.org/details/cia-readingroom-document-cia-rdp86-00513r002202710016-0/page/n29/mode/1up), Leningrad, 1971. |
 | A.M. Rubakov | "Characteristics of equipment designed to ad. electrically on the organism in biological research," Meditsinskaya Tekhnika No. 1, pp. 6-9, 1973. |
@@ -115,13 +114,11 @@ M.M. Mirrakhimov, 1972 |?|"high elevation, has caused lasting improvement in psy
 ## Journal
 | Authors    | Source | Excerpt | 
 | -------- | ------- | ------- |
-| Adams | J. Reprod. Fertil. 12, 9, 1970 | altered respiratory pattern, liver catalase activity seems to be lowered by estrogen and raised by thyroxin |
+| Adams (C. E. Adams ?) | J. Reprod. Fertil. 12, 9, 1970 (Maybe wrong issue, page, year) | altered respiratory pattern, liver catalase activity seems to be lowered by estrogen and raised by thyroxin |
 | Maor, et al. | Acta Endocrinol. 75(1), 205, 1974 | proliferative response of lymphoid organs, measured as the rate of DNA synthesis, is increased by estrogen or insulin and decreased by thyrotropin |
 | Oshima | Bull. Natl. Inst. Anim. Ind (Chibal) 26, 45, 1973 | Starvation and injection of estradiol both suppress lactation while thyroxine injection stimulates lactation |
-| Imre | Exp. Eye Res. 25, Supplement, 1977, P. 284 | Sugar wastage, leading to lactic acid production, can result from a vitamin B2 deficiency, and lactic acid appears to stimulate vascularization  |
 | M. Kirchgassner & H.L. Mueller | Landwirtsch Forsch 27 (314), p. 358-364, 1974 | "copper/dry body matter clearly fell when the protein supply was increased." & "The effect of varying the protein diet on the trace elements content of early-weaned piglets." |
 | ? | J. of Steroid Biochemistry | Progesterone has also been used to eliminate excess facial hair (photographs of this effect of progestins have been published in the J. of Steroid Biochemistry). |
-| ? | J. Clin. Nutr., summer, 1974 | Vitamin C increases the structural strength of the mucous membranes' connective tissue, in proportion to its intake, up to the megadoses recommended by Pauling (according to electron microscope evidence) |
 
 ## Others
 | Authors    | Source | Excerpt | 
@@ -147,9 +144,8 @@ M.M. Mirrakhimov, 1972 |?|"high elevation, has caused lasting improvement in psy
 ## Books
 | Authors    | Book | 
 | -------- | ------- | 
-| Hans Selye | Encyclopedia of Endocrinology voume 1-4 (1943) | 
+| Hans Selye | Encyclopedia of Endocrinology volume 1-4 (1943) | 
 | I. Tallberg | Protides of the Body Fluids (1978) | 
-| Raymond Kehl | Les Glandes Endocrines (1952) | 
 | Fraschini Alcide | Il Metodo Biologico di Rinvigorimento (1954) | 
 
 ## Journal
